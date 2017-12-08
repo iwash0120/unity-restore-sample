@@ -1,0 +1,28 @@
+# OS X only (not needed on other platforms)
+.DS_Store
+*.swp
+*.Trashes
+
+# Rider Project
+.idea/
+Unity3dRider
+Assets/Plugins/Editor/JetBrains
+
+# All platforms
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]og/
+[Bb]uild/
+[aA]ssetBundles/
+
+*.csproj
+*.unityproj
+*.sln
+*.userprefs
+/*.suo
+/*.user
+/*.pidb
+
+#for VisualStudio for Mac
+.vs
